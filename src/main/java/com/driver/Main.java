@@ -15,4 +15,5 @@ public class Main {
   B b = new B();
   
   String x = b.meth();
+  System.out.println(x);
 }
